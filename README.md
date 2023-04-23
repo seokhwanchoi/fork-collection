@@ -1,10 +1,10 @@
 # fork-collection
 
 
-- ASP.net core :
+- ASP.net core(C#) :
 https://github.com/dotnet/aspnetcore
 
 
 
-- UnityCsReference :
+- UnityCsReference(C#) :
 https://github.com/Unity-Technologies/UnityCsReference
